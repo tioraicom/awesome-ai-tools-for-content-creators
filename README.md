@@ -75,6 +75,7 @@ Where the hours actually go, and where an hour saved is felt weekly.
 - **[Descript](https://www.descript.com/)** — Edits video by editing its transcript, which removes the scrubbing entirely. `Freemium` `Web` `Windows` `macOS`
 - **[Filmora](https://filmora.wondershare.com/)** — A one-off licence option, which suits somebody avoiding another subscription. `Freemium` `Windows` `macOS` `iOS` `Android`
 - **[Kapwing](https://www.kapwing.com/)** — Runs entirely in the browser, so a borrowed laptop is enough. `Freemium` `Web`
+- **[ReelWorkshop](https://reelworkshop.com/)** — Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264. Edit free; export on Starter. `Freemium` `Web`
 - **[Runway](https://runway.com/)** — Generates and alters footage rather than only arranging what you filmed. `Freemium` `Web`
 - **[VEED](https://www.veed.io/)** — Aimed at somebody who wants a finished clip, not a timeline to learn. `Freemium` `Web`
 
